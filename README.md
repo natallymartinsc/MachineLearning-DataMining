@@ -16,5 +16,6 @@ Course Content: Throughout the course, we covered the following topics:
 ## Repository organization
 
 /implementationProject: The final project
+
 /personalProjects: Projects developed applying the knowledge that i learned on class
 
