@@ -13,9 +13,7 @@ Course Content: Throughout the course, we covered the following topics:
 7. Artificial Neural Networks
 
 
-## Repository organization
-
-/implementationProject: The final project
-
-/personalProjects: Projects developed applying the knowledge that i learned on class
-
+## Repository Structure 
+- `/classesCode/`: Contains practice code and algorithm implementations developed on class.
+- `/personalProjects/`: Applying the knowledge on personal projects.
+- `/finalProject/`: The final project
